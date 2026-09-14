@@ -1,5 +1,5 @@
 # Efe Furkan (Raven)
-> **Low-Level & Systems Developer**
+> **Systems Developer**
 
 `C` • `C++` • `Linux Kernel` • `Android AOSP` • `Game Tools & Plugins`
 
