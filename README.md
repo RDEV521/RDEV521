@@ -1,16 +1,15 @@
-# Efe Furkan
+# Efe Furkan (Raven)
 > **Low-Level & Systems Developer**
 
-`C` • `C++` • `Linux Kernel` • `Android AOSP` • `Python`
+`C` • `C++` • `Linux Kernel` • `Android AOSP` • `Game Tools & Plugins`
 
 ---
 
 ### 🔍 Focus Areas
-* **Kernel Development:** Custom kernel optimization & driver development
-* **AOSP Building:** Android Open Source Project custom builds & device trees
-* **Automation:** Low-level system scripting and workflow build tools
+* **Kernel & Drivers:** Custom kernel optimization, driver development, AOSP builds
+* **Game Development & Tooling:** Game plugins, internal/external software, modding tools
+* **System Automation:** Low-level scripting, build automation, reverse engineering
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Environment
 * **Languages:** C, C++, Python, Bash, PowerShell
-* **Platforms:** Linux (Arch / Ubuntu), Android (AOSP/LineageOS)
-* **Virtualization & Build:** QEMU, VMware, Makefile, Git
+* **Platforms & Tools:** Linux, Android, QEMU, VMware, Makefile, Git
