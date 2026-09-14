@@ -11,7 +11,7 @@
 * **System Automation:** Low-level scripting, build automation, reverse engineering
 
 ### 🛠️ Tech Stack & Environment
-* **Languages:** C, C++, Python, Bash, PowerShell
+* **Languages:** C, C++, rust, Python, Bash, PowerShell
 * **Platforms & Tools:** Linux, Android, QEMU, VMware, Makefile, Git
 
 ---
