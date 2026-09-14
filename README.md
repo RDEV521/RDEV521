@@ -1,5 +1,5 @@
 # Efe Furkan (Raven)
-> **Systems Developer**
+> **Low-Level & Systems Developer**
 
 `C` • `C++` • `Linux Kernel` • `Android AOSP` • `Game Tools & Plugins`
 
@@ -11,6 +11,9 @@
 * **System Automation:** Low-level scripting, build automation, reverse engineering
 
 ### 🛠️ Tech Stack & Environment
-* **Languages:** C, C++, rust , Python, Bash, PowerShell
+* **Languages:** C, C++, Python, Bash, PowerShell
 * **Platforms & Tools:** Linux, Android, QEMU, VMware, Makefile, Git
-* The repo I am in are open.
+
+---
+
+> 💡 *Most of my daily development activity and core projects are in private repositories. Public highlights are pinned below.*
