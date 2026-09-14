@@ -19,5 +19,5 @@
 > 💡 *Most of my daily development activity and core projects are in private repositories. Public highlights are pinned below.*
 
 
-* 1st-year contribution 2026 *
-* ...
+>* 1st-year contribution 2026 *
+>* ...
